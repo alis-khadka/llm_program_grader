@@ -1,0 +1,149 @@
+{
+    "19_20-1-1-python": {
+        "total_files": 31,
+        "num_of_files_with_parsing_error": 17,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 14,
+        "does_the_numbers_make_sense?": true
+    },
+    "19_20-2-1-python": {
+        "total_files": 27,
+        "num_of_files_with_parsing_error": 17,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 10,
+        "does_the_numbers_make_sense?": true
+    },
+    "19_20-2-2-python": {
+        "total_files": 25,
+        "num_of_files_with_parsing_error": 9,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 3,
+        "does_the_numbers_make_sense?": false
+    },
+    "19_20-3-1-python": {
+        "total_files": 19,
+        "num_of_files_with_parsing_error": 4,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 13,
+        "does_the_numbers_make_sense?": false
+    },
+    "19_20-4-1-python": {
+        "total_files": 23,
+        "num_of_files_with_parsing_error": 13,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 10,
+        "does_the_numbers_make_sense?": true
+    },
+    "19_20-4-2-python": {
+        "total_files": 22,
+        "num_of_files_with_parsing_error": 18,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 4,
+        "does_the_numbers_make_sense?": true
+    },
+    "19_20-5-1-python": {
+        "total_files": 23,
+        "num_of_files_with_parsing_error": 15,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 8,
+        "does_the_numbers_make_sense?": true
+    },
+    "19_20-5-2-python": {
+        "total_files": 23,
+        "num_of_files_with_parsing_error": 18,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 5,
+        "does_the_numbers_make_sense?": true
+    },
+    "19_20-6-1-python": {
+        "total_files": 9,
+        "num_of_files_with_parsing_error": 4,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 5,
+        "does_the_numbers_make_sense?": true
+    },
+    "19_20-6-2-python": {
+        "total_files": 5,
+        "num_of_files_with_parsing_error": 5,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 0,
+        "does_the_numbers_make_sense?": true
+    },
+    "20_21-1-1-python": {
+        "total_files": 46,
+        "num_of_files_with_parsing_error": 15,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 8,
+        "does_the_numbers_make_sense?": false
+    },
+    "20_21-1-2-python": {
+        "total_files": 41,
+        "num_of_files_with_parsing_error": 9,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 14,
+        "does_the_numbers_make_sense?": false
+    },
+    "20_21-2-1-python": {
+        "total_files": 40,
+        "num_of_files_with_parsing_error": 13,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 10,
+        "does_the_numbers_make_sense?": false
+    },
+    "20_21-3-1-python": {
+        "total_files": 49,
+        "num_of_files_with_parsing_error": 11,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 12,
+        "does_the_numbers_make_sense?": false
+    },
+    "20_21-3-2-python": {
+        "total_files": 38,
+        "num_of_files_with_parsing_error": 12,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 11,
+        "does_the_numbers_make_sense?": false
+    },
+    "21_22-1-1-python": {
+        "total_files": 56,
+        "num_of_files_with_parsing_error": 14,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 9,
+        "does_the_numbers_make_sense?": false
+    },
+    "21_22-1-2-python": {
+        "total_files": 56,
+        "num_of_files_with_parsing_error": 18,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 5,
+        "does_the_numbers_make_sense?": false
+    },
+    "21_22-2-1-python": {
+        "total_files": 54,
+        "num_of_files_with_parsing_error": 16,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 7,
+        "does_the_numbers_make_sense?": false
+    },
+    "21_22-2-2-python": {
+        "total_files": 49,
+        "num_of_files_with_parsing_error": 23,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 0,
+        "does_the_numbers_make_sense?": false
+    },
+    "21_22-3-1-python": {
+        "total_files": 32,
+        "num_of_files_with_parsing_error": 18,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 5,
+        "does_the_numbers_make_sense?": false
+    },
+    "21_22-3-2-python": {
+        "total_files": 19,
+        "num_of_files_with_parsing_error": 7,
+        "num_of_files_skipped": 0,
+        "num_of_files_processed": 12,
+        "does_the_numbers_make_sense?": true
+    }
+}
