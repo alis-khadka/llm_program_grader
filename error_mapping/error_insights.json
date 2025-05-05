@@ -1,0 +1,92 @@
+{
+    "lab_insights": {
+      "lab1": {
+        "error_taxonomy": {
+          "Implementation Errors": 50.0,
+          "Logic Errors": 30.0,
+          "Syntax Errors": 10.0,
+          "Output Mismatch": 10.0
+        },
+        "total_comments": 14
+      },
+      "lab2": {
+        "error_taxonomy": {
+          "Missing Components": 41.7,
+          "Implementation Errors": 33.3,
+          "Output Mismatch": 16.7,
+          "Structural Issues": 8.3
+        },
+        "total_comments": 12
+      },
+      "lab3": {
+        "error_taxonomy": {
+          "Standard Deviation Calculation": 70.0,
+          "Missing Components": 15.0,
+          "Structural Issues": 10.0,
+          "Output Mismatch": 5.0
+        },
+        "total_comments": 20
+      },
+      "lab4": {
+        "error_taxonomy": {
+          "Implementation Errors": 50.0,
+          "Syntax Errors": 50.0
+        },
+        "total_comments": 2
+      },
+      "lab5": {
+        "error_taxonomy": {
+          "Implementation Errors": 52.6,
+          "Output Mismatch": 21.1,
+          "Logic Errors": 15.8,
+          "Syntax Errors": 10.5
+        },
+        "total_comments": 19
+      },
+      "lab6": {
+        "error_taxonomy": {
+          "Implementation Errors": 53.8,
+          "Missing Components": 30.8,
+          "Output Mismatch": 15.4
+        },
+        "total_comments": 13
+      },
+      "lab7": {
+        "error_taxonomy": {
+            "Structural Issues": 40.0,
+            "Implementation Errors": 30.0,
+            "Syntax Errors": 20.0,
+            "Output Mismatch": 10.0
+        },
+        "total_comments": 10
+      },
+      "lab8": {
+        "error_taxonomy": {
+            "Structural Issues": 40.0,
+            "Syntax Errors": 20.0,
+            "Implementation Errors": 20.0,
+            "Logic Errors": 20.0
+        },
+        "total_comments": 5
+      },
+      "lab9": {
+        "error_taxonomy": {
+            "Implementation Errors": 37.5,
+            "Logic Errors": 25.0,
+            "Structural Issues": 25.0,
+            "Syntax Errors": 12.5
+        },
+        "total_comments": 8
+      }
+    },
+    "error_categories": [
+      "Implementation Errors: Incorrect algorithm/logic implementation (e.g., loops, method logic)",
+      "Logic Errors: Flaws in algorithm leading to incorrect results",
+      "Syntax Errors: Typos, missing brackets/semicolons",
+      "Output Mismatch: Code runs but produces wrong output",
+      "Missing Components: Required methods/classes/files absent",
+      "Structural Issues: File/class organization problems",
+      "Standard Deviation Calculation: Formula errors (Lab 3 specific)",
+      "Compilation Errors: Code fails to compile"
+    ]
+  }
