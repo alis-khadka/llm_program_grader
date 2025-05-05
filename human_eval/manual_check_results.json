@@ -1,0 +1,2410 @@
+{
+  "19_20-1-1-python": {
+    "J24DZKBZ.py": {
+      "functionality": {
+        "passed": 4,
+        "total": 4,
+        "pass_rate": "100.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'GGT' is not defined"
+      }
+    },
+    "LAEEVP2N.py": {
+      "functionality": {
+        "passed": 4,
+        "total": 4,
+        "pass_rate": "100.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'GCD' is not defined"
+      }
+    }
+  },
+  "19_20-2-1-python": {
+    "ZLV7YBN2.py": {
+      "functionality": {
+        "passed": 9,
+        "total": 9,
+        "pass_rate": "100.00%",
+        "details": [
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.0009574,
+        "cprofile_output_summary": "         288 function calls in 0.001 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.000    0.000    0.001    0.001 {built-in method builtins.exec}\n        1    0.000    0.000    0.000    0.000 <string>:1(<module>)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}\n      100    0.000    0.000    0.000    0.000 <string>:27(enqueue)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.__build_class__}\n       40    0.000    0.000    0.000    0.000 <string>:34(dequeue)\n      100    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}\n       40    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}\n        1    0.000    0.000    0.000    0.000 <string>:1(Queue)\n        1    0.000    0.000    0.000    0.000 <string>:20(head)\n        1    0.000    0.000    0.000    0.000 <string>:4(__init__)\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n\n\n"
+      }
+    },
+    "C6P7CKBX.py": {
+      "functionality": {
+        "passed": 9,
+        "total": 9,
+        "pass_rate": "100.00%",
+        "details": [
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 9.38
+      },
+      "complexity": {
+        "cprofile_total_time": 0.0007111000000000001,
+        "cprofile_output_summary": "         348 function calls in 0.001 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.000    0.000    0.001    0.001 {built-in method builtins.exec}\n        1    0.000    0.000    0.000    0.000 <string>:1(<module>)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}\n      100    0.000    0.000    0.000    0.000 <string>:24(enqueue)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.__build_class__}\n       40    0.000    0.000    0.000    0.000 <string>:37(dequeue)\n      100    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}\n      100    0.000    0.000    0.000    0.000 {built-in method builtins.len}\n        1    0.000    0.000    0.000    0.000 <string>:1(Queue)\n        1    0.000    0.000    0.000    0.000 <string>:5(__init__)\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n        1    0.000    0.000    0.000    0.000 <string>:17(head)\n\n\n"
+      }
+    }
+  },
+  "19_20-2-2-python": {
+    "C6P7CKBX.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 13,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "1",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "14",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "0",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "3720010",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "4599\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "18388\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "11951\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 32, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "50863132\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 12,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 31, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "3",
+            "actual": ""
+          },
+          {
+            "test": 13,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 31, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 6.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'CustomStack' is not defined"
+      }
+    },
+    "3QDYQU4I.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 13,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "1",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "14",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "0",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "3720010",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "4599\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "18388\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "11951\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'CustomStack' is not defined",
+            "expected": "50863132\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 12,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 29, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "3",
+            "actual": ""
+          },
+          {
+            "test": 13,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 29, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 9.52
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'CustomStack' is not defined"
+      }
+    }
+  },
+  "19_20-5-1-python": {
+    "G632BNLN.py": {
+      "functionality": {
+        "passed": 8,
+        "total": 11,
+        "pass_rate": "72.73%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 17, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 17, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 17, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.0005364,
+        "cprofile_output_summary": "         36 function calls in 0.001 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.000    0.000    0.001    0.001 {built-in method builtins.exec}\n        1    0.000    0.000    0.000    0.000 <string>:1(<module>)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}\n        1    0.000    0.000    0.000    0.000 <string>:1(bfs)\n       12    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}\n        6    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}\n       13    0.000    0.000    0.000    0.000 {built-in method builtins.len}\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n\n\n"
+      }
+    },
+    "LDR4Y4L3.py": {
+      "functionality": {
+        "passed": 8,
+        "total": 11,
+        "pass_rate": "72.73%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.0007532000000000001,
+        "cprofile_output_summary": "         24 function calls in 0.001 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.001    0.001    0.001    0.001 {built-in method builtins.exec}\n        1    0.000    0.000    0.000    0.000 <string>:1(<module>)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}\n        1    0.000    0.000    0.000    0.000 <string>:1(bfs)\n       12    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}\n        6    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.len}\n\n\n"
+      }
+    }
+  },
+  "19_20-5-2-python": {
+    "EYIBQKMO.py": {
+      "functionality": {
+        "passed": 8,
+        "total": 11,
+        "pass_rate": "72.73%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 17, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 17, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 17, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.0033709000000000005,
+        "cprofile_output_summary": "         52 function calls in 0.003 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.002    0.002    0.003    0.003 {built-in method builtins.exec}\n        1    0.000    0.000    0.002    0.002 <string>:1(<module>)\n        1    0.001    0.001    0.001    0.001 {built-in method builtins.print}\n        1    0.000    0.000    0.000    0.000 <string>:1(dfs)\n       13    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}\n       14    0.000    0.000    0.000    0.000 {built-in method builtins.len}\n       13    0.000    0.000    0.000    0.000 {method 'reverse' of 'list' objects}\n        7    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n\n\n"
+      }
+    },
+    "LDR4Y4L3.py": {
+      "functionality": {
+        "passed": 8,
+        "total": 11,
+        "pass_rate": "72.73%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 29, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 29, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 29, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 6.88
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'DFSUtilFunction' is not defined"
+      }
+    }
+  },
+  "19_20-3-1-python": {
+    "ZLV7YBN2.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 11,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 0.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'ListToSort' is not defined"
+      }
+    },
+    "OTLDMOQQ.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 11,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True\nTrue",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 22, in <module>\nNameError: name 'ListToSort' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 5.83
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'ListToSort' is not defined"
+      }
+    }
+  },
+  "19_20-6-1-python": {
+    "ZLV7YBN2.py": {
+      "functionality": {
+        "passed": 17,
+        "total": 20,
+        "pass_rate": "85.00%",
+        "details": [
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "PASS"
+          },
+          {
+            "test": 14,
+            "status": "PASS"
+          },
+          {
+            "test": 15,
+            "status": "PASS"
+          },
+          {
+            "test": 16,
+            "status": "PASS"
+          },
+          {
+            "test": 17,
+            "status": "PASS"
+          },
+          {
+            "test": 18,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 19,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 20,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 21,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 0.59
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'edelta_evaluate' is not defined"
+      }
+    },
+    "5XRZQT3Q.py": {
+      "functionality": {
+        "passed": 17,
+        "total": 20,
+        "pass_rate": "85.00%",
+        "details": [
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "PASS"
+          },
+          {
+            "test": 14,
+            "status": "PASS"
+          },
+          {
+            "test": 15,
+            "status": "PASS"
+          },
+          {
+            "test": 16,
+            "status": "PASS"
+          },
+          {
+            "test": 17,
+            "status": "PASS"
+          },
+          {
+            "test": 18,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 16, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 19,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 16, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 20,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 16, in <module>\nNameError: name 'getRandom' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 21,
+            "status": "PASS"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.000861,
+        "cprofile_output_summary": "         8 function calls in 0.001 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.001    0.001    0.001    0.001 {built-in method builtins.exec}\n        1    0.000    0.000    0.000    0.000 <string>:1(<module>)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}\n        1    0.000    0.000    0.000    0.000 <string>:1(editDistance)\n        3    0.000    0.000    0.000    0.000 {built-in method builtins.len}\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n\n\n"
+      }
+    }
+  },
+  "20_21-1-1-python": {
+    "PS3U2NU6.py": {
+      "functionality": {
+        "passed": 6,
+        "total": 18,
+        "pass_rate": "33.33%",
+        "details": [
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 12,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 13,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 14,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 15,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 16,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 17,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 18,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 19,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 20,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 10, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.000424,
+        "cprofile_output_summary": "         5 function calls in 0.000 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.exec}\n        1    0.000    0.000    0.000    0.000 <string>:1(<module>)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}\n        1    0.000    0.000    0.000    0.000 <string>:1(expo)\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n\n\n"
+      }
+    },
+    "ZWD5JXGT.py": {
+      "functionality": {
+        "passed": 6,
+        "total": 18,
+        "pass_rate": "33.33%",
+        "details": [
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 11,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 12,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 13,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 14,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 15,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 16,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 17,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 18,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 19,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          },
+          {
+            "test": 20,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'randomExpo' is not defined",
+            "expected": "OK",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'expo' is not defined"
+      }
+    }
+  },
+  "20_21-1-2-python": {
+    "2V5AQFDC.py": {
+      "functionality": {
+        "passed": 7,
+        "total": 9,
+        "pass_rate": "77.78%",
+        "details": [
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "ERROR",
+            "detail": "Execution Error: [WinError 206] The filename or extension is too long"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "ERROR",
+            "detail": "Execution Error: [WinError 206] The filename or extension is too long"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'solution' is not defined"
+      }
+    },
+    "NFQDGIJ2.py": {
+      "functionality": {
+        "passed": 7,
+        "total": 9,
+        "pass_rate": "77.78%",
+        "details": [
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "ERROR",
+            "detail": "Execution Error: [WinError 206] The filename or extension is too long"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "ERROR",
+            "detail": "Execution Error: [WinError 206] The filename or extension is too long"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'MergeSort' is not defined"
+      }
+    }
+  },
+  "21_22-1-1-python": {
+    "Z63DNTX3.py": {
+      "functionality": {
+        "passed": 8,
+        "total": 17,
+        "pass_rate": "47.06%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "PASS"
+          },
+          {
+            "test": 14,
+            "status": "PASS"
+          },
+          {
+            "test": 15,
+            "status": "PASS"
+          },
+          {
+            "test": 16,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 12, in <module>\nNameError: name 'randint' is not defined",
+            "expected": "0",
+            "actual": ""
+          },
+          {
+            "test": 17,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 12, in <module>\nNameError: name 'randint' is not defined",
+            "expected": "0",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'calc' is not defined"
+      }
+    },
+    "7XBTEU4B.py": {
+      "functionality": {
+        "passed": 8,
+        "total": 17,
+        "pass_rate": "47.06%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 15, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 15, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 15, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 15, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 15, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 15, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 15, in <module>\nNameError: name '__student_answer__' is not defined",
+            "expected": "-1",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "PASS"
+          },
+          {
+            "test": 14,
+            "status": "PASS"
+          },
+          {
+            "test": 15,
+            "status": "PASS"
+          },
+          {
+            "test": 16,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 16, in <module>\nNameError: name 'randint' is not defined",
+            "expected": "0",
+            "actual": ""
+          },
+          {
+            "test": 17,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 16, in <module>\nNameError: name 'randint' is not defined",
+            "expected": "0",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.00047070000000000006,
+        "cprofile_output_summary": "         8 function calls in 0.000 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.exec}\n        1    0.000    0.000    0.000    0.000 <string>:1(<module>)\n        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}\n        1    0.000    0.000    0.000    0.000 <string>:1(calc)\n        3    0.000    0.000    0.000    0.000 {built-in method builtins.pow}\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n\n\n"
+      }
+    }
+  },
+  "19_20-4-1-python": {
+    "NZJES6ZV.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 8,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'Node' is not defined"
+      }
+    },
+    "Y3YJOVOH.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 8,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 21, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 21, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 21, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 21, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 20, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 20, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 20, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 20, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 9.33
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'Node' is not defined"
+      }
+    }
+  },
+  "19_20-4-2-python": {
+    "4PPDVAQT.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 10,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 35, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 35, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 35, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 35, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 34, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 34, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 34, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 34, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 34, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 35, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'Node' is not defined"
+      }
+    },
+    "SEATKBAK.py": {
+      "functionality": {
+        "passed": 0,
+        "total": 10,
+        "pass_rate": "0.00%",
+        "details": [
+          {
+            "test": 1,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 58, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 2,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 58, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 3,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 58, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 4,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 58, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 5,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 57, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 6,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 57, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 57, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 8,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 57, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 9,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 57, in <module>\nNameError: name 'get_random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 10,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 58, in <module>\nNameError: name 'Node' is not defined. Did you mean: 'None'?",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 9.58
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'Node' is not defined"
+      }
+    }
+  },
+  "20_21-3-1-python": {
+    "LGHTWUYA.py": {
+      "functionality": {
+        "passed": 15,
+        "total": 20,
+        "pass_rate": "75.00%",
+        "details": [
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "PASS"
+          },
+          {
+            "test": 14,
+            "status": "PASS"
+          },
+          {
+            "test": 15,
+            "status": "PASS"
+          },
+          {
+            "test": 16,
+            "status": "PASS"
+          },
+          {
+            "test": 17,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 18,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 23, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 19,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 20,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 21,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": 0.0040921,
+        "cprofile_output_summary": "         9 function calls in 0.004 seconds\n\n   Ordered by: cumulative time\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.003    0.003    0.004    0.004 {built-in method builtins.exec}\n        1    0.000    0.000    0.001    0.001 <string>:1(<module>)\n        1    0.001    0.001    0.001    0.001 {built-in method builtins.print}\n        1    0.000    0.000    0.000    0.000 <string>:1(knapSack)\n        1    0.000    0.000    0.000    0.000 <string>:9(<listcomp>)\n        3    0.000    0.000    0.000    0.000 {built-in method builtins.len}\n        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}\n\n\n"
+      }
+    },
+    "4K3M4DFG.py": {
+      "functionality": {
+        "passed": 15,
+        "total": 20,
+        "pass_rate": "75.00%",
+        "details": [
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "PASS"
+          },
+          {
+            "test": 14,
+            "status": "PASS"
+          },
+          {
+            "test": 15,
+            "status": "PASS"
+          },
+          {
+            "test": 16,
+            "status": "PASS"
+          },
+          {
+            "test": 17,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 29, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 18,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 29, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 19,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 20,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          },
+          {
+            "test": 21,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 30, in <module>\nNameError: name 'random' is not defined",
+            "expected": "True",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'knapSack2' is not defined"
+      }
+    }
+  },
+  "20_21-3-2-python": {
+    "OBPWTTMQ.py": {
+      "functionality": {
+        "passed": 9,
+        "total": 10,
+        "pass_rate": "90.00%",
+        "details": [
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "ERROR",
+            "detail": "Execution Error: [WinError 206] The filename or extension is too long"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'dfs' is not defined"
+      }
+    },
+    "VM5CRFDU.py": {
+      "functionality": {
+        "passed": 9,
+        "total": 10,
+        "pass_rate": "90.00%",
+        "details": [
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "PASS"
+          },
+          {
+            "test": 8,
+            "status": "PASS"
+          },
+          {
+            "test": 9,
+            "status": "PASS"
+          },
+          {
+            "test": 10,
+            "status": "PASS"
+          },
+          {
+            "test": 11,
+            "status": "PASS"
+          },
+          {
+            "test": 12,
+            "status": "PASS"
+          },
+          {
+            "test": 13,
+            "status": "ERROR",
+            "detail": "Execution Error: [WinError 206] The filename or extension is too long"
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'DFS' is not defined"
+      }
+    }
+  },
+  "21_22-3-1-python": {
+    "5UQSXBL3.py": {
+      "functionality": {
+        "passed": 6,
+        "total": 7,
+        "pass_rate": "85.71%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 24, in <module>\nNameError: name 'rand' is not defined. Did you mean: 'round'?",
+            "expected": "0",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'rand' is not defined"
+      }
+    },
+    "VYSPL56W.py": {
+      "functionality": {
+        "passed": 6,
+        "total": 7,
+        "pass_rate": "85.71%",
+        "details": [
+          {
+            "test": 1,
+            "status": "PASS"
+          },
+          {
+            "test": 2,
+            "status": "PASS"
+          },
+          {
+            "test": 3,
+            "status": "PASS"
+          },
+          {
+            "test": 4,
+            "status": "PASS"
+          },
+          {
+            "test": 5,
+            "status": "PASS"
+          },
+          {
+            "test": 6,
+            "status": "PASS"
+          },
+          {
+            "test": 7,
+            "status": "FAIL",
+            "detail": "Runtime Error: Traceback (most recent call last):\n  File \"<string>\", line 11, in <module>\nNameError: name 'rand' is not defined. Did you mean: 'round'?",
+            "expected": "0",
+            "actual": ""
+          }
+        ]
+      },
+      "quality": {
+        "pylint_score": 10.0
+      },
+      "complexity": {
+        "cprofile_total_time": null,
+        "cprofile_output_summary": "Profiling Error: name 'rand' is not defined"
+      }
+    }
+  }
+}
